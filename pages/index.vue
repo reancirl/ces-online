@@ -6,7 +6,7 @@
         ces_online
       </h1>
       <h2 class="subtitle">
-        ces online store
+        tj dako oten, chubby yong, jude tam
       </h2>
       <div class="links">
         <a
