@@ -80,10 +80,9 @@
 			text-decoration: none !important;
 			font-weight: 500;
 			text-transform: uppercase;
-			font-size: .8rem;
+			font-size: .7rem;
 			color: #f7f7f7;
 			border-radius: 6px;
-			padding: 5px 8px 5px 8px;
 			background-size: 300% 300%;
 			color: white;
 			margin-left: 0px;
