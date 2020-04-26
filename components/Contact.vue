@@ -13,7 +13,7 @@
 	.contact{
 		background-color: #c6a530;
 		color: #f7f7f7;
-		padding: 5px 15px 3px 15px;
+		padding: 5px 15px 1px 15px;
 
 		h6{
 			font-size: .9rem;			
