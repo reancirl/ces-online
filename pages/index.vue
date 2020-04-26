@@ -1,9 +1,8 @@
 <template>
   <div class="index">
-  	<b-row>
-		<b-col sm="12" class="cover-1">
-		</b-col>
-	</b-row>
+  	<div class="container">
+		
+  	</div>
   </div>
 </template>
 
@@ -17,9 +16,14 @@
 </script>
 
 <style lang="scss">
-	.cover-1{
-		background-image: url('../assets/food-1.jpg');
-		background-size: cover;
-		background-position: center;
+	.index{
+		margin: 3rem 0px 0px 0px;
+		padding:0px 0px;
+
+		.container{
+			background-image: url('../assets/food-1.jpg');
+			background-size: cover;
+			background-position: bottom;
+		}
 	}
 </style>
