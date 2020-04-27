@@ -32,7 +32,6 @@
 	        <nuxt-link to="#" id="side-link">Products</nuxt-link>
 	        <nuxt-link to="#" id="side-link">Wholesale</nuxt-link>
 	        <b-img src="../assets/japan-1.jpg" fluid thumbnail class="mt-4"></b-img>
-	        <b-img src="../assets/kikkiam-1.jpg" fluid thumbnail class="mt-4"></b-img>
 	      </div>
 	      <template v-slot:footer="{ hide }">
 	       <div class="d-flex bg-dark text-light align-items-center px-3 py-2">
@@ -71,7 +70,7 @@
 
 		background-image: linear-gradient(to bottom right, #c6a530,#d6ae7b);
 		background-position: top left;
-		transition: .5s linear;
+		transition: 2s linear;
 	}
 	#side-link:hover{
 		color:black;
