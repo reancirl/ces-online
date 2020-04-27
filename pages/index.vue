@@ -39,24 +39,21 @@
 </template>
 
 <script>
-
-  export default {
-  	head(){
+export default {
+  data () {
     return {
-      title: 'Yong Snack Yard & Frozen Products',
-      meta: [
-        {
-          hid: 'description',
-          name: 'description',
-          content: "Giving Lugait a place to place to sit, talk and have great food!"
-        }
-      ]
+      title: 'Yong Snack Yard & Frozen Products'
     }
   },
-    components:{
-
+  head () {
+    return {
+      title: this.title,
+      meta: [
+        { hid: 'description', name: 'description', content: 'Giving Lugait a place to sit, talk, and have a great food!' }
+      ]
     }
   }
+}
 </script>
 
 <style>
