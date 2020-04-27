@@ -41,6 +41,18 @@
 <script>
 
   export default {
+  	head(){
+    return {
+      title: 'Yong Snack Yard & Frozen Products',
+      meta: [
+        {
+          hid: 'description',
+          name: 'description',
+          content: "Giving Lugait a place to place to sit, talk and have great food!"
+        }
+      ]
+    }
+  },
     components:{
 
     }
