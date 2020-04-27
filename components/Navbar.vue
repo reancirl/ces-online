@@ -11,19 +11,16 @@
 		</b-container>
 		<b-sidebar id="sidebar-1" title="Snack Yard" backdrop shadow>
 	      <div class="px-3 py-2">
-	        <nuxt-link to="#" id="side-link">Menu</nuxt-link>
-	        <nuxt-link to="#" id="side-link">Reservation</nuxt-link>
+	        <nuxt-link to="#" id="side-link">View Menu</nuxt-link>
+	        <nuxt-link to="#" id="side-link">Catering</nuxt-link>
 	        <b-img src="../assets/food-1.jpg" fluid thumbnail class="mt-4"></b-img>
-	        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-	        tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-	        quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-	        consequat..</p>
 	      </div>
 	      <template v-slot:footer="{ hide }">
 	       <div class="d-flex bg-dark text-light align-items-center px-3 py-2">
 	        <strong class="mr-3"><font-awesome-icon :icon="['fab', 'facebook']"/></strong>
 	        <strong class="mr-3"><font-awesome-icon :icon="['fab', 'twitter']"/></strong>
 	        <strong class="mr-3"><font-awesome-icon :icon="['fab', 'instagram']"/></strong>
+	        <strong class="ml-auto"><font-awesome-icon :icon="['fas', 'phone-alt']"/> +63 9123456789</strong>
 	       </div>
 	      </template>
 	    </b-sidebar>
@@ -38,6 +35,7 @@
 	        <strong class="mr-3"><font-awesome-icon :icon="['fab', 'facebook']"/></strong>
 	        <strong class="mr-3"><font-awesome-icon :icon="['fab', 'twitter']"/></strong>
 	        <strong class="mr-3"><font-awesome-icon :icon="['fab', 'instagram']"/></strong>
+	        <strong class="ml-auto"><font-awesome-icon :icon="['fas', 'phone-alt']"/> +63 9123456789</strong>
 	       </div>
 	      </template>
 	    </b-sidebar>

@@ -11,13 +11,13 @@
 			<b-row>
 				<b-col sm="6"><img src="../assets/hamburger-1.svg" style="width:90%;"></b-col>
 				<b-col sm="6" class="">
-					<h4><span class="day-1">Monday :</span> (8:00 am - 6:00pm)</h4>
-					<h4><span class="day-1">Tuesday :</span> (8:00 am - 6:00pm)</h4>
-					<h4><span class="day-1">Wednesday :</span> (8:00 am - 6:00pm)</h4>
-					<h4><span class="day-1">Thursday :</span> (8:00 am - 6:00pm)</h4>
-					<h4><span class="day-1">Friday :</span> (8:00 am - 6:00pm)</h4>
+					<h4><span class="day-1">Monday :</span> (8:00 am - 8:00pm)</h4>
+					<h4><span class="day-1">Tuesday :</span> (8:00 am - 8:00pm)</h4>
+					<h4><span class="day-1">Wednesday :</span> (8:00 am - 8:00pm)</h4>
+					<h4><span class="day-1">Thursday :</span> (8:00 am - 8:00pm)</h4>
+					<h4><span class="day-1">Friday :</span> (8:00 am - 8:00pm)</h4>
 					<h4><span class="day-1">Saturday :</span> (8:00 am - 8:00 pm)</h4>
-					<h4><span class="day-1">Sunday :</span> (1:00 pm - 8:00 pm)</h4>
+					<h4><span class="day-1">Sunday :</span> (2:00 pm - 6:00 pm)</h4>
 				</b-col>
 			</b-row>
 		</div>
@@ -27,7 +27,9 @@
 		<div class="container pt-3">
 			<b-row>
 				<b-col sm="6" class="">
-					
+					<h4>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+					tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+					quis nostrud exercitation ullamco laboris nisi.</h4>
 				</b-col>
 				<b-col sm="6"><img src="../assets/shopping-1.svg" style="width:90%;"></b-col>
 			</b-row>
