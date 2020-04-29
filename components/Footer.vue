@@ -7,7 +7,7 @@
 			© 2020 Yong Snack Yard & Frozen Products
 		</h6>
 		<h6 class="font--9" id="yong-name">
-			Made with ❤ by <a href="https://reancirl.life" target="_blank">Reancirl Balaba</a> | All Rights Reserved
+			Made with ❤ by <a href="https://reancirl.life" target="_blank" style="color:white; text-decoration: underline;">Reancirl Balaba</a> | All Rights Reserved
 		</h6>
 	</div>
 </template>

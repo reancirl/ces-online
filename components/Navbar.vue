@@ -3,7 +3,7 @@
 		<b-container class="bv-example-row">
 			<b-row>
 				<b-col class="text-center" sm="12">
-					<nuxt-link to="#"><img src="../assets/yong-logo.png" alt="Yong" id="logo"></nuxt-link>
+					<nuxt-link to="/"><img src="../assets/yong-logo.png" alt="Yong" id="logo"></nuxt-link>
 					<b-button v-b-toggle.sidebar-1 id="nav-link">Snack Yard</b-button>
 					<b-button v-b-toggle.sidebar-2 id="nav-link">Frozen Products</b-button>
 				</b-col>
@@ -11,7 +11,7 @@
 		</b-container>
 		<b-sidebar id="sidebar-1" title="Snack Yard" backdrop shadow>
 	      <div class="px-3 py-2">
-	        <nuxt-link to="#" id="side-link">View Menu</nuxt-link>
+	        <nuxt-link to="/snackyard-menu" id="side-link">View Menu</nuxt-link>
 	        <nuxt-link to="#" id="side-link">Catering</nuxt-link>
 	        <b-img src="../assets/food-1.jpg" fluid thumbnail class="mt-4"></b-img>
 	      </div>

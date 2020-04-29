@@ -2,34 +2,33 @@
   <div class="index">
   	<div class="main">
 		<div class="container-main">
-			<h1 class="outline-1">What you crave?</h1>
+			<h1 class="outline-1">Take a bite and Enjoy the moment!</h1>
 		</div>
   	</div>
 	<div id="hours">
-		<h1 class="outline-2 text-center mt-3">Business Hours</h1>
-		<div class="container pt-3">
+		<h1 class="outline-2 text-center mt-3">Business Hours and Scope</h1>
+		<div class="container pt-5">
 			<b-row>
 				<b-col sm="6"><img src="../assets/hamburger-1.svg" style="width:90%;"></b-col>
-				<b-col sm="6" class="">
-					<h4><span class="day-1">Monday :</span> (8:00 am - 8:00pm)</h4>
-					<h4><span class="day-1">Tuesday :</span> (8:00 am - 8:00pm)</h4>
-					<h4><span class="day-1">Wednesday :</span> (8:00 am - 8:00pm)</h4>
-					<h4><span class="day-1">Thursday :</span> (8:00 am - 8:00pm)</h4>
-					<h4><span class="day-1">Friday :</span> (8:00 am - 8:00pm)</h4>
-					<h4><span class="day-1">Saturday :</span> (8:00 am - 8:00 pm)</h4>
-					<h4><span class="day-1">Sunday :</span> (2:00 pm - 6:00 pm)</h4>
+				<b-col sm="6" class="text-center">
+					<h4><span class="day-1">Monday - Saturday :</span> </h4>
+					<h4>(8:00 am - 8:00pm)</h4>
+					<h4><span class="day-1">Sunday :</span></h4>
+					<h4>(2:00 pm - 6:00 pm)</h4>
+					<h4><span class="day-1">Delivery range :</span></h4>
+					<h4> Within Poblacion, Iligan City - Manticao, Misamis Oriental</h4>
 				</b-col>
 			</b-row>
 		</div>
 	</div>
 	<div id="about">
-		<h1 class="outline-2 text-center mt-3">About us</h1>
+		<h1 class="outline-2 text-center mt-5">What we offer</h1>
 		<div class="container pt-3">
 			<b-row>
-				<b-col sm="6" class="">
-					<h4>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-					tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-					quis nostrud exercitation ullamco laboris nisi.</h4>
+				<b-col sm="6" class="pt-4 pb-4">
+					<h5>We are living in a <span class="highlight-1">Digital Age</span> where everything and everyone is inclined with technology, and we believe that <span class="highlight-1">Our Business</span> should not be left behind in this journey to a better and more advance digital world.</h5>
+					<h5 class="pt-2"> <span class="highlight-1">We offer</span> a variety of snack products from classic streetfoods like tempura and Chicken Proven to Siopao, Siomai and Burgers to name a few.</h5>
+					<h5 class="pt-2"> We also offer <span class="highlight-1">Delivery Service</span> for bulk purchase of our frozen products.</h5>
 				</b-col>
 				<b-col sm="6"><img src="../assets/shopping-1.svg" style="width:90%;"></b-col>
 			</b-row>
@@ -90,7 +89,13 @@ export default {
 		-webkit-text-stroke:1.7px black;
 	}
 	.day-1{
-		font-size: 1.1rem;
+		font-size: 1.5rem;
+		color:#c6a530;
+		font-weight: 700;
+		-webkit-text-stroke:.5px black;
+	}
+	.highlight-1{
+		font-size: 1.3rem;
 		color:#c6a530;
 		font-weight: 700;
 		-webkit-text-stroke:.5px black;
