@@ -18,7 +18,6 @@
 	      <template v-slot:footer="{ hide }">
 	       <div class="d-flex bg-dark text-light align-items-center px-3 py-2">
 	        <strong class="mr-3"><font-awesome-icon :icon="['fab', 'facebook']"/></strong>
-	        <strong class="mr-3"><font-awesome-icon :icon="['fab', 'twitter']"/></strong>
 	        <strong class="mr-3"><font-awesome-icon :icon="['fab', 'instagram']"/></strong>
 	        <strong class="ml-auto"><font-awesome-icon :icon="['fas', 'phone-alt']"/> +63 9123456789</strong>
 	       </div>
@@ -26,14 +25,13 @@
 	    </b-sidebar>
 	    <b-sidebar id="sidebar-2" title="Frozen Products" backdrop shadow>
 	      <div class="px-3 py-2">
-	        <nuxt-link to="#" id="side-link">Products</nuxt-link>
-	        <nuxt-link to="#" id="side-link">Wholesale</nuxt-link>
+	        <nuxt-link to="/frozen-products" id="side-link">Products</nuxt-link>
+	        <nuxt-link to="#" id="side-link">Others</nuxt-link>
 	        <b-img src="../assets/japan-1.jpg" fluid thumbnail class="mt-4"></b-img>
 	      </div>
 	      <template v-slot:footer="{ hide }">
 	       <div class="d-flex bg-dark text-light align-items-center px-3 py-2">
 	        <strong class="mr-3"><font-awesome-icon :icon="['fab', 'facebook']"/></strong>
-	        <strong class="mr-3"><font-awesome-icon :icon="['fab', 'twitter']"/></strong>
 	        <strong class="mr-3"><font-awesome-icon :icon="['fab', 'instagram']"/></strong>
 	        <strong class="ml-auto"><font-awesome-icon :icon="['fas', 'phone-alt']"/> +63 9123456789</strong>
 	       </div>

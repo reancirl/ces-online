@@ -25,7 +25,7 @@
 	    width: 50%;
 	    padding: 25px;
 	    text-align: center;
-	    margin-top: 50px;
+	    margin-top: 10px;
 	}
 	.p-inner{
 		padding: 20px 0px 5px 0px;
