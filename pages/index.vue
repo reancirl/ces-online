@@ -88,6 +88,18 @@ export default {
 		color: #c6a530 !important;
 		-webkit-text-stroke:1.7px black;
 	}
+	.outline-3 {
+		font-size: 2rem;		
+		font-weight: 900;
+		color: #c6a530 !important;
+		-webkit-text-stroke:1.7px black;
+	}
+	.outline-4 {
+		font-size: 2rem;		
+		font-weight: 900;
+		color: #c6a530 !important;
+		-webkit-text-stroke:.7px #ffffff;
+	}
 	.day-1{
 		font-size: 1.5rem;
 		color:#c6a530;
