@@ -60,7 +60,7 @@ export default {
 		margin: 1rem 0px 0px 0px;
 		padding:0px 0px;
 		height: 100%;
-		background-image: url('../assets/kikkiam.jpg');		
+		background-image: url('../assets/kikkiam-1.jpg');		
 		background-size: cover;
 		background-position: center;
 		height: 50vh;
