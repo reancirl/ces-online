@@ -1,14 +1,20 @@
 <template>
-	<div class="contact">
-		<h6 class="font--9 float-right">
-			<font-awesome-icon class="mr-2 icon-1" :icon="['fab', 'facebook']"/> <font-awesome-icon class="mr-2 icon-1" :icon="['fab', 'twitter']"/> <font-awesome-icon class="mr-2 icon-1" :icon="['fab', 'instagram']"/> 
-		</h6>
-		<h6 class="font--9">
-			© 2020 Yong Snack Yard & Frozen Products
-		</h6>
-		<h6 class="font--9" id="yong-name">
-			Made with ❤ by <a href="https://reancirl.life" target="_blank" style="color:white; text-decoration: underline;">Reancirl Balaba</a> | All Rights Reserved
-		</h6>
+	<div class="footer">
+		<div class="container">
+			<b-row>
+				<b-col sm="6">
+					<h6 class="font--9" id="yong-name">
+						© 2020 Yong Snack Yard & Frozen Products
+					</h6>
+				</b-col>
+				<b-col sm="6">
+					<h6 class="font--9" id="rb-name">
+						Made with ❤ by <a href="https://reancirl.life" target="_blank" style="color:white; text-decoration: underline;">Reancirl Balaba</a> | All Rights Reserved
+					</h6>
+				</b-col>
+			</b-row>
+			
+		</div>
 	</div>
 </template>
 
@@ -20,20 +26,22 @@
 	h6{
 		font-size: .9rem;			
 	}
-	.contact{
+	.footer{
 		background-color: #c6a530;
 		color: #f7f7f7;
-		padding: 10px 15px 1px 15px;
+		padding: 20px 15px 10px 15px;
 	}
 	.icon-1{
 		font-size: 20px;
 	}
 	#yong-name{
-
+		text-align: left;
+	}
+	#rb-name{
+		text-align: right;
 	}
 	@media (max-width: 415px){
-		#yong-name {
-			margin-top: 20px;
+		#rb-name{
 			text-align: center;
 		}
 	}

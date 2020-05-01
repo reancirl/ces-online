@@ -26,7 +26,6 @@
 		<div class="container pt-3">
 			<b-row>
 				<b-col sm="6" class="pt-4 pb-4">
-					<h5>We are living in a <span class="highlight-1">Digital Age</span> where everything and everyone is inclined with technology, and we believe that <span class="highlight-1">Our Business</span> should not be left behind in this journey to a better and more advance digital world.</h5>
 					<h5 class="pt-2"> <span class="highlight-1">We offer</span> a variety of snack products from classic streetfoods like tempura and Chicken Proven to Siopao, Siomai and Burgers to name a few.</h5>
 					<h5 class="pt-2"> We also offer <span class="highlight-1">Delivery Service</span> for bulk purchase of our frozen products.</h5>
 				</b-col>
