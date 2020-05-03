@@ -23,65 +23,65 @@
     		fproducts: [
     			{
     				name: 'Mango Float',
-    				description: 'Lorem Ipsum Durom',
+    				description: 'Not Availble Currently',
     				price: '0',
-    				min_order: 'Minumum order Required',
+    				min_order: '',
     				src: require('../assets/mangofloat-1.jpg')
     			},
     			{
     				name: 'Chicken Siomai',
-    				description: 'Lorem Ipsum Durom',
-    				price: '0',
-    				min_order: 'Minumum order Required',
+    				description: 'Not Availble Currently',
+    				price: '330',
+    				min_order: '',
     				src: require('../assets/chicken-siomai-1.jpg')
     			},
     			{
     				name: 'Chocolate Cake',
-    				description: 'Lorem Ipsum',
+    				description: 'Not Availble Currently',
     				price: '0',
-    				min_order: 'Lorem Ipsum Durom',
+    				min_order: '',
     				src: require('../assets/chococake-1.jpg')
     			},
     			{
     				name: 'Beef Siomai',
-    				description: 'Lorem Ipsum Durom',
+    				description: 'Not Availble Currently',
     				price: '0',
-    				min_order: 'Minumum order Required',
+    				min_order: '',
     				src: require('../assets/beef-1.jpg')
     			},
     			{
     				name: 'Chicken Proven',
-    				description: 'Lorem Ipsum',
+    				description: 'Not Availble Currently',
     				price: '0',
-    				min_order: 'Lorem Ipsum Durom',
+    				min_order: '',
     				src: require('../assets/proven-2.jpg')
     			},
     			{
     				name: 'Squid Rolls, Squid Balls & Tempura',
-    				description: 'Lorem Ipsum Durom',
+    				description: 'Not Availble Currently',
     				price: '0',
-    				min_order: 'Minimum order required',
+    				min_order: '',
     				src: require('../assets/squid-rolls-1.jpg')
     			},
     			{
     				name: 'Fries',
-    				description: 'PLorem Ipsum Durom',
+    				description: 'Not Availble Currently',
     				price: '0',
-    				min_order: 'Minumum order Required',
+    				min_order: '',
     				src: require('../assets/fries-2.jpg')
     			},
                 {
                     name: 'Mang Inasal Pecho',
-                    description: 'PLorem Ipsum Durom',
+                    description: 'Not Availble Currently',
                     price: '0',
-                    min_order: 'Minumum order Required',
+                    min_order: '',
                     src: require('../assets/inasal-1.jpg')
                 },
                 {
                     name: 'Japanese Siomai',
-                    description: 'Lorem Ipsum',
+                    description: 'Not Availble Currently',
                     price: '0',
-                    min_order: 'Lorem Ipsum Durom',
+                    min_order: '',
                     src: require('../assets/japan-1.jpg')
                 },
     		]

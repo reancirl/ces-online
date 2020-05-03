@@ -14,26 +14,28 @@
 	        <nuxt-link to="/snackyard-menu" id="side-link">Snacks</nuxt-link>
 	        <nuxt-link to="/shakes" id="side-link">Shakes&Drinks</nuxt-link>
 	        <b-img src="../assets/food-1.jpg" fluid thumbnail class="mt-4"></b-img>
+	        <h5 class="text-center pt-3"> You can visit us at Masilakon 2, Brgy. Poblacion, Lugait 9025 Misamis Oriental </h5>
 	      </div>
 	      <template v-slot:footer="{ hide }">
 	       <div class="d-flex bg-dark text-light align-items-center px-3 py-2">
 	        <strong class="mr-3"><font-awesome-icon :icon="['fab', 'facebook']"/></strong>
 	        <strong class="mr-3"><font-awesome-icon :icon="['fab', 'instagram']"/></strong>
-	        <strong class="ml-auto"><font-awesome-icon :icon="['fas', 'phone-alt']"/> +63 9123456789</strong>
+	        <strong class="ml-auto"><font-awesome-icon :icon="['fas', 'phone-alt']"/> +63 9488607427</strong>
 	       </div>
 	      </template>
 	    </b-sidebar>
 	    <b-sidebar id="sidebar-2" title="Frozen Products" backdrop shadow>
 	      <div class="px-3 py-2">
 	        <nuxt-link to="/frozen-products" id="side-link">Products</nuxt-link>
-	        <nuxt-link to="#" id="side-link">Others</nuxt-link>
+	        <nuxt-link to="#" id="side-link">UnAvailable</nuxt-link>
 	        <b-img src="../assets/japan-1.jpg" fluid thumbnail class="mt-4"></b-img>
+	        <h5 class="text-center pt-3">We do not offer any delivery service right now due to COVID19 Pandemic, Keep Safe and Godbless!</h5>
 	      </div>
 	      <template v-slot:footer="{ hide }">
 	       <div class="d-flex bg-dark text-light align-items-center px-3 py-2">
 	        <strong class="mr-3"><font-awesome-icon :icon="['fab', 'facebook']"/></strong>
 	        <strong class="mr-3"><font-awesome-icon :icon="['fab', 'instagram']"/></strong>
-	        <strong class="ml-auto"><font-awesome-icon :icon="['fas', 'phone-alt']"/> +63 9123456789</strong>
+	        <strong class="ml-auto"><font-awesome-icon :icon="['fas', 'phone-alt']"/> +63 9488607427</strong>
 	       </div>
 	      </template>
 	    </b-sidebar>

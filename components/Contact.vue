@@ -1,6 +1,6 @@
 <template>
 	<div class="contact">
-		<h6 class="font--9 float-right"><font-awesome-icon :icon="['fas', 'phone-alt']"/> +63 9123456789</h6>
+		<h6 class="font--9 float-right"><font-awesome-icon :icon="['fas', 'phone-alt']"/> +63 9488607427</h6>
 		<h6 class="font--9"><font-awesome-icon :icon="['fas', 'map-marker-alt']"/> Lugait, Misamis Oriental</h6>
 	</div>
 </template>
